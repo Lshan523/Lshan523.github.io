@@ -24,7 +24,7 @@ lshan 个人主页
 		<div id="panel">
 			<h5 class="head">welcone my  home page </h5>
 			<div class="content">
-        <h1> lovo you my fang </h1>
+        <h1> love you my fang </h1>
 			</div>
 		</div>
 	</body>
